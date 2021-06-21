@@ -4,12 +4,7 @@
 - Weekly activities were conducted through ppt presentation and discussion.
 - This repo maintained by [신영민](https://github.com/young3984), 김홍관, 박세영, 박나영, 김하은
 
-### 1. Reference
-```
-[1] 김영록, 김준석, 유창우, 이승규, 정다래, 최용호, 허영진, [IndustrialMathematics_Main], 경문사, p.7-44, 2017
-[2] 김경찬, [이공학을 위한 MATLAB 활용 수치해석], 경문사, 2007
-```
-### 2. Plan
+### 1. Plan
 
 |Week|Contents|
 |----|--------------|
@@ -31,7 +26,7 @@
 For detailed plans, see the
 [Plan](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Plan.pdf)
 
-### 3. Result
+### 2. Result
 #### (1) Cubic spline interpolation
 ![image](https://user-images.githubusercontent.com/68014282/122789581-6ac2c500-d2f2-11eb-9f68-90dbeeadfdda.png)
 #### (2) Least square
@@ -39,4 +34,11 @@ For detailed plans, see the
 
 For detailed contents, see the
 [Report](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Report.pdf)
+
+
+### 3. Reference
+```
+[1] 김영록, 김준석, 유창우, 이승규, 정다래, 최용호, 허영진, [IndustrialMathematics_Main], 경문사, p.7-44, 2017
+[2] 김경찬, [이공학을 위한 MATLAB 활용 수치해석], 경문사, 2007
+```
 
