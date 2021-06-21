@@ -32,8 +32,11 @@ For detailed plans, see the
 [Plan](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Plan.pdf)
 
 ### 3. Result
-#### (1). Cubic spline interpolation
+#### (1) Cubic spline interpolation
+![image](https://user-images.githubusercontent.com/68014282/122789581-6ac2c500-d2f2-11eb-9f68-90dbeeadfdda.png)
+#### (2) Least square
+![image](https://user-images.githubusercontent.com/68014282/122790448-49160d80-d2f3-11eb-87f9-cb23184b2f79.png)
 
-
+For detailed contents, see the
 [Report](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Report.pdf)
 
