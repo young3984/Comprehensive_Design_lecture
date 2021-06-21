@@ -32,7 +32,7 @@ For detailed plans, see the
 [Plan](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Plan.pdf)
 
 ### 3. Result
-
+#### (1). Cubic spline interpolation
 
 
 [Report](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Report.pdf)
