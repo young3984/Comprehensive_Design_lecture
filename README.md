@@ -33,7 +33,8 @@ For detailed plans, see the
 ![image](https://user-images.githubusercontent.com/68014282/122790448-49160d80-d2f3-11eb-87f9-cb23184b2f79.png)
 
 For detailed contents, see the
-[Report](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Report.pdf)
+[Report](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Report.pdf), 
+[Weekly activity](https://github.com/young3984/Comprehensive_Design_lecture/tree/master/Week)
 
 
 ### 3. Reference
