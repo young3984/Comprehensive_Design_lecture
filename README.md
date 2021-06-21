@@ -27,9 +27,9 @@ For detailed plans, see the
 [Plan](https://github.com/young3984/Comprehensive_Design_lecture/blob/master/Plan%26Report/Plan.pdf)
 
 ### 2. Result
-#### (1) Cubic spline interpolation [code](https://github.com/young3984/Comprehensive_Design_lecture/tree/master/Week/Week_12/Code/spline)
+#### (1) Cubic spline interpolation [[code]](https://github.com/young3984/Comprehensive_Design_lecture/tree/master/Week/Week_12/Code/spline)
 ![image](https://user-images.githubusercontent.com/68014282/122789581-6ac2c500-d2f2-11eb-9f68-90dbeeadfdda.png)
-#### (2) Least square [code](https://github.com/young3984/Comprehensive_Design_lecture/tree/master/Week/Week_12/Code/spline)
+#### (2) Least square [[code]](https://github.com/young3984/Comprehensive_Design_lecture/tree/master/Week/Week_12/Code/spline)
 ![image](https://user-images.githubusercontent.com/68014282/122790448-49160d80-d2f3-11eb-87f9-cb23184b2f79.png)
 
 For detailed contents, see the 
