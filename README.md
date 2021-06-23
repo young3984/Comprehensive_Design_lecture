@@ -1,4 +1,4 @@
-# Comprehensive_Design_lecture (the first semester of 2021)
+# Comprehensive Design lecture (the first semester of 2021)
 ## 3D reconstruction of 2D cross section using spline interpolation and least squares method
 
 - Weekly activities were conducted through ppt presentation and discussion.
